@@ -1,0 +1,102 @@
+{
+    "results": {
+      "temp": 22,
+      "date": "05/03/2022",
+      "time": "18:30",
+      "condition_code": "27",
+      "description": "Tempo limpo",
+      "currently": "dia",
+      "cid": "",
+      "city": "São Paulo, SP",
+      "img_id": "27",
+      "humidity": 84,
+      "wind_speedy": "3.09 km/h",
+      "sunrise": "06:04 am",
+      "sunset": "06:32 pm",
+      "condition_slug": "clear_day",
+      "city_name": "São Paulo",
+      "forecast": [
+        {
+          "date": "04/03",
+          "weekday": "Sex",
+          "max": 29,
+          "min": 20,
+          "description": "Chuva",
+          "condition": "rain"
+        },
+        {
+          "date": "05/03",
+          "weekday": "Sáb",
+          "max": 30,
+          "min": 19,
+          "description": "Chuva",
+          "condition": "rain"
+        },
+        {
+          "date": "06/03",
+          "weekday": "Dom",
+          "max": 30,
+          "min": 19,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "07/03",
+          "weekday": "Seg",
+          "max": 30,
+          "min": 21,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "08/03",
+          "weekday": "Ter",
+          "max": 31,
+          "min": 21,
+          "description": "Tempo limpo",
+          "condition": "clear_day"
+        },
+        {
+          "date": "09/03",
+          "weekday": "Qua",
+          "max": 31,
+          "min": 20,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "10/03",
+          "weekday": "Qui",
+          "max": 30,
+          "min": 19,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "11/03",
+          "weekday": "Sex",
+          "max": 30,
+          "min": 20,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "12/03",
+          "weekday": "Sáb",
+          "max": 30,
+          "min": 20,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        },
+        {
+          "date": "13/03",
+          "weekday": "Dom",
+          "max": 29,
+          "min": 19,
+          "description": "Chuvas esparsas",
+          "condition": "rain"
+        }
+      ]
+    }
+    
+  }

@@ -1,0 +1,15 @@
+<div *ngFor="let item of dadosTemperatura">
+    <mat-card class="card" fxLayout="row" fxFlex="100">
+        <mat-card-title-group >
+
+                <mat-card-title>{{item.weekday}}</mat-card-title>
+                <mat-card-subtitle>{{item.date}}</mat-card-subtitle>
+     
+          <p class="temp_max">{{item.max}}°</p>
+          <p class="temp_min">{{item.min}}°</p>
+        </mat-card-title-group>
+        <mat-card-content class="descricao">
+          {{item.description}}
+        </mat-card-content>      
+    </mat-card>    
+</div>
